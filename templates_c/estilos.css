@@ -1,0 +1,112 @@
+.container {
+    background-color: darkslateblue;
+    width: 75%;
+    height: 185px;
+    text-align: center;
+    color:white;
+    border-radius:20px;
+    padding-top:10px;
+   
+}
+.container2 {
+    float: left;
+    width: 35%;
+    height: 500px;
+    text-align: center;
+    font-size: 120%;
+    margin: 0px auto;
+    padding-left:300px;
+   
+    
+}
+.container3 {
+    padding-left:210px;
+    width: 50%;
+    text-align: center;
+    font-size: 130%;
+    margin: 0px auto;
+    color:darkslateblue;
+}
+
+#uno { background-color:darkslateblue;
+       color:white;
+}
+
+table { 
+        border-color:darkslateblue;
+      
+}
+
+a {color:darkslateblue;
+}
+
+#b {background-color:darkslateblue;
+   color:white;
+}
+
+#icono {
+    
+    width: 6%;
+    height: 2%;
+}
+#icono2 {padding-left:290px;
+}
+#c {
+    width: 80%;
+    height: 15px;
+    text-align: center;
+   float:right;
+   padding-right:150px;
+   padding-top:13px;
+}
+
+#g {padding-top:10px;
+}
+
+.container4 {padding-top:15px;
+}
+
+#s {padding-top:10px;
+}
+
+#container1 {padding-top:10px;
+}
+
+#container2 {
+    padding-top: 10px;
+}
+
+#container3 {
+    width: 30%;
+    height: 50%;
+    background-color: darkslateblue;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin: auto;
+    padding-top:15px;
+}
+form {
+    margin: auto;
+    padding: 15px;
+}
+
+#a {
+    background-color: black;
+    border-color: black;
+}
+
+#parrafo { color: darkslateblue;
+}
+
+#container5 {
+  
+    width: 80%;
+    height: 185px;
+    text-align: center;
+    color: darkslateblue;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left:400px;
+    padding-right:150px;
+}
